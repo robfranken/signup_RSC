@@ -21,7 +21,7 @@ output:
 
 We willen je vragen om ...
 
-1. je sportactiviteiten te bij te houden in de app *Final Surge*
+1. gedurende de cursus, je sportactiviteiten te bij te houden in de app *Final Surge*
 2. een online vragenlijst in te vullen.
 
 <br>
