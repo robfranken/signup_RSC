@@ -1,0 +1,80 @@
+---
+title: "**Onderzoek krachttraining**" 
+output: 
+  html_document:
+    toc:  false
+    toc_float: true
+    number_sections: false
+---
+
+----
+
+
+![](images/rsc.png)
+
+
+<br>
+
+**De Radboud Universiteit doet onderzoek naar hoe mensen gemotiveerd kunnen worden om te blijven sporten**. 
+
+<br>
+
+We willen je vragen om ...
+
+1. je sportactiviteiten te bij te houden in de app *Final Surge*
+2. een online vragenlijst in te vullen.
+
+<br>
+
+
+Overweeg jij om mee te doen aan dit belangrijke onderzoek?
+
+Laat dan hieronder je gegevens achter. Zodat ik je een coachingsverzoek kan sturen!
+
+<!---we should move this to a css file and include it
+
+https://www.w3schools.com/csS/css3_buttons.asp
+
+-->
+<style>
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+}
+
+.button1 {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.button2:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+</style>
+
+<br>
+
+<a href="https://limesurvey.jtolsma.nl/limesurvey/limesurvey/index.php/868275?newtest=Y&lang=nl" target="_blank" class="button button2">Laat hier je gegevens achter!</a>
+
+
+<br>
+
+Alvast bedankt!
+
+
+
+
+
+
+
+
+

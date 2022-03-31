@@ -1,0 +1,11 @@
+name: "Krachtig RSC"
+favicon: favicon.ico
+include: index.html
+
+output:
+  html_document:
+    theme: cerulean 
+    highlight: default
+output_dir: "docs"
+
+
